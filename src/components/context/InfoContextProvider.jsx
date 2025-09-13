@@ -64,7 +64,7 @@ const InfoContextProvider = ({ children }) => {
       tituloImagen: tituloSeccionSobreEvento,
       subtitulo: "fecha y hora",
       dia: "27",
-      linkMaps: "https://maps.app.goo.gl/LnBxDDANCwqTtfiX6",
+      linkMaps: "https://maps.app.goo.gl/HREvBkZwPowkY7Hy6",
       mes: "de septiembre",
       hora: "5.00",
       rango: "de la tarde",
